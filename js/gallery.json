@@ -1,0 +1,48 @@
+[
+    {
+      "src": "img/01.ico",
+      "alt": "Picture 1",
+      "caption": "Oscars"
+    },
+    {
+        "src": "img/02.png",
+        "alt": "Picture 2",
+        "caption": "Movie making"
+    },
+    {
+        "src": "img/03.png",
+        "alt": "Picture 3",
+        "caption": "High rated movies"
+    },
+    {
+        "src": "img/04.jpg",
+        "alt": "RPicture 4",
+        "caption": "Videography"
+    },
+    {
+        "src": "img/main.png",
+        "alt": "Picture 5",
+        "caption": "Film Society Logo"
+      },
+      {
+          "src": "img/06.png",
+          "alt": "Picture 6",
+          "caption": "Camera"
+      },
+      {
+          "src": "img/07.png",
+          "alt": "Picture 7",
+          "caption": "Animated movies"
+      },
+      {
+          "src": "img/09.png",
+          "alt": "Picture 8",
+          "caption": "Snacks and Drinks"
+      },
+      {
+        "src": "img/08.png",
+        "alt": "Picture 9",
+        "caption": "Movie Night Event"
+    }     
+  ]
+  
